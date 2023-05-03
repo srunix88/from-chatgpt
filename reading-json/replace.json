@@ -1,0 +1,15 @@
+{
+  "resource": [
+    {
+      "type": "google_service_account",
+      "name": "my-service-account-4",
+      "properties": {
+        "account_id": "my-service-account-4",
+        "display_name": "Johns amazing service account",
+        "description": "This service account is used for creating amazing apps",
+        "project": "my-gcp-project"
+      }
+    }
+  ]
+}
+

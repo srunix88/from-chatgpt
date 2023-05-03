@@ -1,0 +1,94 @@
+{
+  "resource": [
+    {
+      "type": "google_service_account",
+      "name": "my-service-account-1",
+      "properties": {
+        "account_id": "my-service-account-1",
+        "display_name": "My Service Account 1",
+        "description": "This service account is used for...",
+        "project": "my-gcp-project"
+      }
+    },
+    {
+      "type": "google_service_account",
+      "name": "my-service-account-2",
+      "properties": {
+        "account_id": "my-service-account-2",
+        "display_name": "My Service Account 2",
+        "description": "This service account is used for...",
+        "project": "my-gcp-project"
+      }
+    },
+    {
+      "type": "google_service_account",
+      "name": "my-service-account-3",
+      "properties": {
+        "account_id": "my-service-account-3",
+        "display_name": "My Service Account 3",
+        "description": "This service account is used for...",
+        "project": "my-gcp-project"
+      }
+    },
+    {
+      "type": "google_service_account",
+      "name": "my-service-account-4",
+      "properties": {
+        "account_id": "my-service-account-4",
+        "display_name": "Johns amazing service account",
+        "description": "This service account is used for creating amazing apps",
+        "project": "my-gcp-project"
+      }
+    },
+    {
+      "type": "google_service_account",
+      "name": "my-service-account-5",
+      "properties": {
+        "account_id": "my-service-account-5",
+        "display_name": "My Service Account 5",
+        "description": "This service account is used for...",
+        "project": "my-gcp-project"
+      }
+    },
+    {
+      "type": "google_service_account",
+      "name": "my-service-account-6",
+      "properties": {
+        "account_id": "my-service-account-6",
+        "display_name": "My Service Account 6",
+        "description": "This service account is used for...",
+        "project": "my-gcp-project"
+      }
+    },
+    {
+      "type": "google_service_account",
+      "name": "my-service-account-7",
+      "properties": {
+        "account_id": "my-service-account-7",
+        "display_name": "My Service Account 7",
+        "description": "This service account is used for...",
+        "project": "my-gcp-project"
+      }
+    },
+    {
+      "type": "google_service_account",
+      "name": "my-service-account-8",
+      "properties": {
+        "account_id": "my-service-account-8",
+        "display_name": "My Service Account 8",
+        "description": "This service account is used for...",
+        "project": "my-gcp-project"
+      }
+    },
+    {
+      "type": "google_service_account",
+      "name": "my-service-account-9",
+      "properties": {
+        "account_id": "my-service-account-9",
+        "display_name": "My Service Account 9",
+        "description": "This service account is used for...",
+        "project": "my-gcp-project"
+      }
+    }
+  ]
+}
